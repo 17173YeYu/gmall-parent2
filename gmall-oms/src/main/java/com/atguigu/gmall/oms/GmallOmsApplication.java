@@ -1,13 +1,13 @@
-package com.atguigu.gmall.gmall.sms;
+package com.atguigu.gmall.oms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GmallSmsApplication {
+public class GmallOmsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GmallSmsApplication.class, args);
+		SpringApplication.run(GmallOmsApplication.class, args);
 	}
 
 }

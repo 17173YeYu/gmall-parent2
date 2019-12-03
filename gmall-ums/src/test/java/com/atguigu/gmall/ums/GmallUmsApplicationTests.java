@@ -1,4 +1,4 @@
-package com.atguigu.gmall.gmall.pms;
+package com.atguigu.gmall.ums;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class GmallPmsApplicationTests {
+public class GmallUmsApplicationTests {
 
 	@Test
 	public void contextLoads() {
